@@ -1,3 +1,2 @@
-import axios from "axios";
-export declare const instanceAPI: axios.AxiosInstance;
+export declare const instanceAPI: import("axios").AxiosInstance;
 //# sourceMappingURL=api.d.ts.map
